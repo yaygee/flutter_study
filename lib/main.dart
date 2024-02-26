@@ -41,8 +41,8 @@ class _HomePageState extends State<HomePage> {
             children: [
               TextWidget(),
               Positioned(
-                left: 30,
-                top: 30,
+                left: 10,
+                top: 10,
                 child: TextWidget(),
               ),
             ],
